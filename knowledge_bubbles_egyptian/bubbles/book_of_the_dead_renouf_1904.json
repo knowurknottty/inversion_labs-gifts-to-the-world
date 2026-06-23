@@ -1,0 +1,17 @@
+{
+  "id": "book_of_the_dead_renouf_1904",
+  "title": "The Egyptian Book of the Dead",
+  "type": "sacred_text",
+  "origin": "ancient_egypt",
+  "period": "New Kingdom (c. 1550-1070 BCE)",
+  "source": "archive.org/details/egyptianbookofde00renouoft",
+  "translator": "P. Le Page Renouf & Edouard Naville (1904)",
+  "description": "Scholarly translation with critical apparatus, comparing multiple papyri versions.",
+  "tags": [
+    "book_of_the_dead",
+    "renouf",
+    "naville",
+    "critical_edition",
+    "new_kingdom"
+  ]
+}
