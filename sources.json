@@ -1,0 +1,107 @@
+{
+  "research_date": "2026-06-23",
+  "topic": "aether - pre-1920 books, papers, and patents",
+  "sources": {
+    "archive_org": {
+      "total_docs_found": 442,
+      "physics_aether_docs": 17,
+      "key_docs": [
+        {"year": 1743, "title": "A Dissertation on the Aether of Sir Isaac Newton", "author": "Bryan Robinson", "identifier": "bim_eighteenth-century_a-dissertation-on-the-ae_robinson-bryan_1743"},
+        {"year": 1746, "title": "An essay towards an explication of the phenomena of electricity, deduced from the aether of Sir Isaac Newton", "author": "Benjamin Wilson, F.R.S.", "identifier": "bim_eighteenth-century_an-essay-towards-an-expl_wilson-benjamin-frs_1746"},
+        {"year": 1747, "title": "A dissertation on the æther of Sir Isaac Newton", "author": "Bryan Robinson, M.D.", "identifier": "bim_eighteenth-century_a-dissertation-on-the-t_robinson-bryan_1747"},
+        {"year": 1756, "title": "The subtil medium prov'd; or, that wonderful power of nature... which they call'd sometimes æther, but oftener elementary fire, verify'd", "author": "R. Lovett", "identifier": "b30540665"},
+        {"year": 1756, "title": "Conjectures on the cause of thunder (contains Sir Isaac Newton's æther realized)", "author": "Edward Wright", "identifier": "conjecturesoncau00wrig"},
+        {"year": 1886, "title": "The Luminiferous æther", "author": "De Volson Wood", "identifier": "tbd"},
+        {"year": 1902, "title": "Waves and ripples in water, air, and aether", "author": "John Ambrose Fleming", "identifier": "tbd"},
+        {"year": 1903, "title": "Aether and gravitation", "author": "William George Hooper", "identifier": "tbd"},
+        {"year": 1903, "title": "On An Inversion Of Ideas As To the Structure of the Universe", "author": "Osborne Reynolds", "identifier": "tbd"},
+        {"year": 1903, "title": "A New Mechanical Theory of the Æther", "author": "G. H. Bryan", "identifier": "tbd"},
+        {"year": 1904, "title": "Baltimore lectures on molecular dynamics and the wave theory of light", "author": "Lord Kelvin (William Thomson)", "identifier": "tbd"},
+        {"year": 1909, "title": "The Ether of Space", "author": "Oliver Lodge", "identifier": "tbd"},
+        {"year": 1910, "title": "A history of the theories of aether and electricity: from the age of Descartes to the close of the 19th century", "author": "E. T. Whittaker", "identifier": "tbd"},
+        {"year": 1911, "title": "The Autobiography of an Electron", "author": "Charles Robert Gibson", "identifier": "tbd"}
+      ]
+    },
+    "google_patents": {
+      "pre1920_aether_patents": 1,
+      "note": "Only USRE5284E (1873, gas manufacture) — not aether physics. Aether was theoretical, not patented.",
+      "post1920_metaphorical": [
+        "Wireless/radio 'ether' patents (metaphorical usage)",
+        "Chemical ether patents (solvents, anesthesia)",
+        "New Age aether devices (post-1960s, pseudoscience)"
+      ]
+    }
+  },
+  "canonical_texts": [
+    {
+      "rank": 1,
+      "title": "A history of the theories of aether and electricity",
+      "author": "E. T. Whittaker",
+      "year": 1910,
+      "importance": "THE canonical reference. Covers Descartes through 19th century.",
+      "url": "https://archive.org/details/historyoftheorie00whit"
+    },
+    {
+      "rank": 2,
+      "title": "The Ether of Space",
+      "author": "Oliver Lodge",
+      "year": 1909,
+      "importance": "Last major defense of aether before relativity. Experiments, philosophy.",
+      "url": "https://archive.org/details/etherofspace00lodg"
+    },
+    {
+      "rank": 3,
+      "title": "Baltimore lectures on molecular dynamics and the wave theory of light",
+      "author": "Lord Kelvin (William Thomson)",
+      "year": 1904,
+      "importance": "Lord Kelvin's luminiferous aether lectures.",
+      "url": "https://archive.org/details/baltimorelecture00kelv"
+    },
+    {
+      "rank": 4,
+      "title": "On the Relative Motion of the Earth and the Luminiferous Ether",
+      "author": "Michelson & Morley",
+      "year": 1887,
+      "importance": "The experiment that (supposedly) killed aether. American Journal of Science.",
+      "url": "https://en.wikisource.org/wiki/The_Relative_Motion_of_the_Earth_and_the_Luminiferous_Ether"
+    },
+    {
+      "rank": 5,
+      "title": "A Dynamical Theory of the Electromagnetic Field / Treatise on Electricity and Magnetism",
+      "author": "James Clerk Maxwell",
+      "year": "1865/1873",
+      "importance": "Maxwell's equations originally formulated WITH aether as implicit medium.",
+      "url": "https://archive.org/details/electricandmagne01maxw"
+    },
+    {
+      "rank": 6,
+      "title": "Versuch einer Theorie der electrischen und optischen Erscheinungen in bewegten Körpern / The Theory of Electrons",
+      "author": "Hendrik Lorentz",
+      "year": "1895/1909",
+      "importance": "Lorentz's electron theory retained aether as stationary medium.",
+      "url": "tbd"
+    },
+    {
+      "rank": 7,
+      "title": "The Ether and the Earth's Atmosphere",
+      "author": "George FitzGerald",
+      "year": 1889,
+      "importance": "Proposed length contraction to explain Michelson-Morley null result.",
+      "url": "tbd"
+    },
+    {
+      "rank": 8,
+      "title": "Aether and Matter",
+      "author": "Joseph Larmor",
+      "year": 1900,
+      "importance": "Mathematical treatment of aether dynamics.",
+      "url": "https://archive.org/details/aetherandmatter00larm"
+    }
+  ],
+  "hmc_status": {
+    "current_aether_entries": 4,
+    "all_modern": true,
+    "missing_canonical": 8,
+    "recommendation": "Ingest the 8 canonical pre-1920 texts into HMC for proper aether research foundation."
+  }
+}
