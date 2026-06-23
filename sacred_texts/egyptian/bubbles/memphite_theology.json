@@ -1,0 +1,18 @@
+{
+  "id": "memphite_theology",
+  "title": "The Memphite Theology",
+  "type": "theological_text",
+  "origin": "ancient_egypt",
+  "period": "Old Kingdom (c. 2700 BCE)",
+  "source": "archive.org/details/memphitetheology00mase",
+  "translator": "A.W. Maser (1920s)",
+  "description": "Shabaka Stone inscription. Theological text from Memphis asserting Ptah as creator god through heart (mind) and tongue (word).",
+  "tags": [
+    "memphite",
+    "ptah",
+    "creation",
+    "theology",
+    "old_kingdom",
+    "shabaka_stone"
+  ]
+}

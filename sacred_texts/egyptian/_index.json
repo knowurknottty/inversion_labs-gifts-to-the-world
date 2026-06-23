@@ -1,0 +1,238 @@
+{
+  "index_type": "egyptian_sacred_texts",
+  "source": "sacred-texts.com",
+  "scraped_at": "2026-06-23T19:21:37Z",
+  "books": [
+    {
+      "title": "The Egyptian Book of the Dead (Papyrus of Ani)",
+      "file": "ebod.json",
+      "source": "sacred-texts.com/ebod/index.htm",
+      "date": "c. 1500 BCE (original); 1895 CE (translation)",
+      "translator": "E. A. Wallis Budge",
+      "tags": [
+        "book_of_the_dead",
+        "papyrus_of_ani",
+        "funerary_text",
+        "afterlife",
+        "hieroglyphics",
+        "theban_version"
+      ],
+      "content_length": 634573
+    },
+    {
+      "title": "The Pyramid Texts",
+      "file": "pyt.json",
+      "source": "sacred-texts.com/pyt/index.htm",
+      "date": "c. 2350-2175 BCE (original); 1952 CE (translation)",
+      "translator": "Samuel A. B. Mercer",
+      "tags": [
+        "pyramid_texts",
+        "oldest_texts",
+        "funerary",
+        "solar_theology",
+        "osiris",
+        "old_kingdom"
+      ],
+      "content_length": 123100
+    },
+    {
+      "title": "Ancient Egyptian Legends",
+      "file": "ael.json",
+      "source": "sacred-texts.com/ael/index.htm",
+      "date": "c. 1913-1920 CE (original compilation)",
+      "translator": "M. A. Murray",
+      "tags": [
+        "legends",
+        "mythology",
+        "stories",
+        "gods",
+        "goddesses",
+        "folklore"
+      ],
+      "content_length": 66943
+    },
+    {
+      "title": "The Wisdom of the Egyptians",
+      "file": "woe.json",
+      "source": "sacred-texts.com/woe/index.htm",
+      "date": "c. 1923 CE",
+      "translator": "Brian Brown (editor)",
+      "tags": [
+        "wisdom",
+        "egyptian_religion",
+        "ptah_hotep",
+        "book_of_the_dead",
+        "hermes_trismegistus",
+        "magic"
+      ],
+      "content_length": 397080
+    },
+    {
+      "title": "The Book of the Am-Tuat",
+      "file": "bat.json",
+      "source": "sacred-texts.com/bat/index.htm",
+      "date": "c. 1375 BCE (original); 1905 CE (translation)",
+      "translator": "E. A. Wallis Budge",
+      "tags": [
+        "am_tuat",
+        "underworld",
+        "funerary",
+        "afterlife",
+        "osiris",
+        "new_kingdom"
+      ],
+      "content_length": 197474
+    },
+    {
+      "title": "The Burden of Isis",
+      "file": "boi.json",
+      "source": "sacred-texts.com/boi/index.htm",
+      "date": "c. 1910 CE",
+      "translator": "James Teackle Dennis",
+      "tags": [
+        "isis",
+        "hymns",
+        "religion",
+        "worship",
+        "goddess"
+      ],
+      "content_length": 70342
+    },
+    {
+      "title": "The Demotic Magical Papyrus of London and Leiden",
+      "file": "dmp.json",
+      "source": "sacred-texts.com/dmp/index.htm",
+      "date": "c. 3rd century CE (original); 1905 CE (translation)",
+      "translator": "F. Ll. Griffith and Herbert Thompson",
+      "tags": [
+        "magic",
+        "demotic",
+        "papyrus",
+        "spells",
+        "rituals",
+        "grimoire"
+      ],
+      "content_length": 137167
+    },
+    {
+      "title": "The Egyptian Heaven and Hell",
+      "file": "ehh.json",
+      "source": "sacred-texts.com/ehh/index.htm",
+      "date": "c. 1905 CE",
+      "translator": "E. A. Wallis Budge",
+      "tags": [
+        "heaven",
+        "hell",
+        "afterlife",
+        "underworld",
+        "funerary",
+        "judgment"
+      ],
+      "content_length": 104866
+    },
+    {
+      "title": "Egyptian Magic",
+      "file": "ema.json",
+      "source": "sacred-texts.com/ema/index.htm",
+      "date": "c. 1901 CE",
+      "translator": "E. A. Wallis Budge",
+      "tags": [
+        "magic",
+        "spells",
+        "rituals",
+        "amulets",
+        "incantations",
+        "occult"
+      ],
+      "content_length": 379717
+    },
+    {
+      "title": "Legends of the Gods: The Egyptian Texts",
+      "file": "leg.json",
+      "source": "sacred-texts.com/leg/index.htm",
+      "date": "c. 1912 CE",
+      "translator": "E. A. Wallis Budge",
+      "tags": [
+        "legends",
+        "gods",
+        "mythology",
+        "stories",
+        "osiris",
+        "horus",
+        "ra"
+      ],
+      "content_length": 205456
+    },
+    {
+      "title": "The Liturgy of Funeral Offerings",
+      "file": "lfo.json",
+      "source": "sacred-texts.com/lfo/index.htm",
+      "date": "c. 1909 CE",
+      "translator": "E. A. Wallis Budge",
+      "tags": [
+        "funerary",
+        "offerings",
+        "ritual",
+        "liturgy",
+        "afterlife"
+      ],
+      "content_length": 7378
+    },
+    {
+      "title": "Religion and Thought in Ancient Egypt",
+      "file": "rtae.json",
+      "source": "sacred-texts.com/rtae/index.htm",
+      "date": "c. 1914 CE",
+      "translator": "Henri Frankfort",
+      "tags": [
+        "religion",
+        "thought",
+        "philosophy",
+        "theology",
+        "ancient_egypt"
+      ],
+      "content_length": 652776
+    },
+    {
+      "title": "The Rosetta Stone",
+      "file": "trs.json",
+      "source": "sacred-texts.com/trs/index.htm",
+      "date": "c. 196 BCE (original); 1905 CE (translation)",
+      "translator": "E. A. Wallis Budge",
+      "tags": [
+        "rosetta_stone",
+        "decipherment",
+        "hieroglyphics",
+        "demotic",
+        "greek",
+        "history"
+      ],
+      "content_length": 124740
+    },
+    {
+      "title": "Tutankhamen: Amenism, Atenism and Egyptian Monotheism",
+      "file": "tut.json",
+      "source": "sacred-texts.com/tut/index.htm",
+      "date": "c. 1923 CE",
+      "translator": "E. A. Wallis Budge",
+      "tags": [
+        "tutankhamen",
+        "atenism",
+        "amenism",
+        "monotheism",
+        "akhenaten",
+        "amarna"
+      ],
+      "content_length": 71031
+    }
+  ],
+  "additional_texts_found": [
+    "bat: Book of the Am-Tuat Index | Internet Sacred Text Archive",
+    "boi: The Burden of Isis Index | Internet Sacred Text Archive",
+    "dmp: The Demotic Magical Papyrus of London and Leiden Index | Internet Sacred Text Archive",
+    "ehh: The Egyptian Heaven and Hell Index | Internet Sacred Text Archive",
+    "ema: Egyptian Magic Index | Internet Sacred Text Archive",
+    "leg: Legends of the Gods, The Egyptian Texts Index | Internet Sacred Text Archive",
+    "lfo: The Liturgy of Funeral Offerings Index | Internet Sacred Text Archive"
+  ]
+}
