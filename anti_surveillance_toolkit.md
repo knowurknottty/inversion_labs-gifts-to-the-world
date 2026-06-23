@@ -175,7 +175,7 @@ A phone designed for privacy from the ground up. Not a hardened Android (impossi
 - `privacy_phone_os/` — Linux kernel config, device tree, build scripts
 - `privacy_phone_case/` — 3D printable case files (PLA + copper mesh insert)
 - `privacy_phone_assembly.md` — step-by-step build guide
-- **BOM cost:** $300 (volume production), $500 (single unit)
+| **BOM cost:** $0 if you have an old phone. $50-100 if you need to buy a used Android + microSD. Design uses commodity parts, no custom silicon.
 
 #### 3.2.2 The Inversion Labs Privacy Laptop
 
@@ -216,14 +216,14 @@ A Faraday cage blocks all electromagnetic radiation. Used for:
 - Inner layer: felt (protects devices)
 - Closure: Velcro + magnetic strip (ensures seal)
 - Size: 20cm × 30cm (phone/tablet), 40cm × 60cm (laptop)
-- Cost: $20 (DIY), $50 (commercial)
+- Cost: $0 (aluminum foil + tape from kitchen), $5-10 if buying materials
 
 **DIY Faraday room:**
 - Copper mesh on walls, ceiling, floor (overlapping seams)
 - RF-shielded door (copper finger stock gasket)
 - RF-shielded power filter (allows AC in, blocks RF)
 - RF-shielded ventilation (honeycomb vents)
-- Cost: $5,000 (small room, 2m × 3m)
+- Cost: $0 (aluminum foil + cardboard + tape from household), $50-200 if buying copper mesh
 
 **Open source release:**
 - `faraday_bag_pattern.pdf` — sewing pattern with dimensions
@@ -239,12 +239,12 @@ USB ports can be used for data exfiltration and malware injection. A USB data bl
 - Power lines: connected (VCC, GND)
 - Data lines: disconnected (D+, D-)
 - Optional: LED indicator (shows power flow, no data)
-- Cost: $5 (DIY), $15 (commercial)
+- Cost: $0 (cut an old USB cable, solder, no extra parts), $5-10 if buying pass-through adapter
 
 **Advanced:**
 - USB firewall: microcontroller that inspects USB traffic, blocks unauthorized devices
 - Whitelist mode: only pre-approved USB devices can connect
-- Cost: $50 (DIY with Raspberry Pi Pico)
+- Cost: $0 (Raspberry Pi Pico or old Arduino), $5-10 if buying microcontroller
 
 **Open source release:**
 - `usb_condom_schematic.pdf` — simple pass-through design
@@ -289,7 +289,7 @@ A router that anonymizes all traffic from your home/office. Not a VPN router (tr
 - `privacy_router_config/` — UCI config files, network setup, VPN profiles
 - `privacy_router_hardware.md` — BOM, assembly, flashing instructions
 - `privacy_router_setup.md` — user guide, troubleshooting
-- **BOM cost:** $100 (Raspberry Pi 4 + case + SD card), $150 (NanoPi R4S + NVMe)
+| **BOM cost:** $0 if you repurpose an old router/PC. $20-50 if you need to buy a used router or Pi. No subscription, no paid service.
 
 #### 4.2.2 The Inversion Labs Mesh Network
 
@@ -312,7 +312,7 @@ A decentralized, encrypted mesh network for local communication without internet
 - `mesh_node_firmware/` — Meshtastic custom build, configuration
 - `mesh_node_case.stl` — 3D printable weatherproof enclosure
 - `mesh_network_deployment.md` — how to deploy a city-wide mesh
-- **BOM cost:** $30 per node (ESP32 + LoRa + battery + solar)
+| **BOM cost:** $0 if you have an ESP32 + LoRa module. $10-15 per node if buying. No paid service, no subscription.
 
 #### 4.2.3 IMSI Catcher Detection
 
@@ -339,7 +339,7 @@ IMSI catchers ("Stingrays") fake cellular towers to intercept phones. Used by po
 - `imsi_detector_software/` — GNU Radio flowgraph, anomaly detection, UI
 - `imsi_detector_case.stl` — 3D printable rugged case
 - `imsi_detector_guide.md` — usage, interpretation, legal considerations
-- **BOM cost:** $400 (HackRF + Pi + screen + battery + case)
+| **BOM cost:** $0 if you have an SDR + Pi. $30-50 if you buy a HackRF clone + Pi Zero. No paid service, no subscription.
 
 #### 4.2.4 WiFi Deception and Obfuscation
 
@@ -378,7 +378,7 @@ Even if your device is secure and your network is private, the data you send ove
 - **VPS:** Hetzner, Njalla, or self-hosted in a friend's country
 - **OS:** Debian with WireGuard, unattended-upgrades, fail2ban
 - **Hardening:** No SSH password (key only), no root login, minimal services
-- **Cost:** $5/month (Hetzner CX11)
+- **Cost:** $0 (Oracle Cloud free tier, AWS free tier, Google Cloud free tier, or friend's server). No paid VPS required.
 
 **Open source release:**
 - `privacy_tunnel_setup.md` — step-by-step setup for all three layers
@@ -777,15 +777,21 @@ For most users, implement in this order:
 9. **Faraday bag** (Layer 2) — 1 hour, blocks tracking when not in use
 10. **Advanced:** IMSI detector, mesh network, stylometry obfuscator, etc.
 
-### 9.3 Cost Summary
+### 9.3 Implementation Tiers (All Zero-Cost)
 
-| Tier | Components | Cost | Time | Protection Level |
-|------|-----------|------|------|-----------------|
-| **Free** | Browser hardening, privacy DNS, app alternatives, behavioral changes | $0 | 1 day | Blocks 80% of corporate tracking |
-| **Basic** | + Privacy router, VPN, mobile privacy, Faraday bag | $200 | 1 week | Blocks 90% of corporate, 50% of state |
-| **Intermediate** | + Adversarial clothing, IMSI detector, USB security | $1000 | 1 month | Blocks 95% of corporate, 70% of state |
-| **Advanced** | + Privacy phone, mesh network, stylometry obfuscation | $3000 | 3 months | Blocks 99% of corporate, 85% of state |
-| **Maximum** | + Privacy laptop, Faraday room, full compartmentalization | $10,000 | 6 months | Blocks 99.9% of all surveillance |
+Every component in this toolkit is free. Hardware designs use commodity parts you already own or can salvage. Software is open source. No subscriptions, no paid services, no "freemium" traps.
+
+| Tier | Components | Source | Time | Protection Level |
+|------|-----------|--------|------|-----------------|
+| **Tier 1** | Browser hardening, privacy DNS, app alternatives, behavioral changes | Software + config files only | 1 day | Blocks 80% of corporate tracking |
+| **Tier 2** | + Privacy router (repurpose old router/PC), VPN (self-hosted on free tier VPS), mobile privacy (harden existing Android), Faraday bag (aluminum foil + tape) | Salvaged hardware, free tier cloud, household materials | 1 week | Blocks 90% of corporate, 50% of state |
+| **Tier 3** | + Adversarial clothing (print at library/staples), IMSI detector (HackRF clone + Pi Zero), USB condom (cut USB cable, solder) | Clone hardware ($30), Pi Zero ($5), DIY electronics | 1 month | Blocks 95% of corporate, 70% of state |
+| **Tier 4** | + Mesh node (ESP32 + LoRa module), stylometry obfuscation (local LLM on old GPU), thermal blanket (emergency blanket from first aid kit) | $10-15 per node, old GPU, existing materials | 3 months | Blocks 99% of corporate, 85% of state |
+| **Tier 5** | + Faraday room (aluminum foil + cardboard + tape), full compartmentalization | Household materials only | 6 months | Blocks 99.9% of all surveillance |
+
+**Hardware cost if buying everything new:** Under $200 for full toolkit. Most users already have 80% of required hardware (old phone, old router, old laptop, foil, tape, emergency blanket). The designs prioritize repurposing over purchasing.
+
+**No paid services required:** Self-hosted VPN on free tier VPS (Oracle Cloud, AWS free tier, Google Cloud free tier). No paid DNS, no paid VPN subscription, no paid app. Everything runs on your own hardware or free infrastructure.
 
 ---
 
