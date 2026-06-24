@@ -1,0 +1,17 @@
+{
+  "id": "book_of_breathing",
+  "title": "The Book of Breathing",
+  "type": "sacred_text",
+  "origin": "ancient_egypt",
+  "period": "Ptolemaic-Roman (c. 332 BCE - 395 CE)",
+  "source": "archive.org/details/bookofbreathing00mase",
+  "translator": "A.W. Maser (1920s)",
+  "description": "Late period funerary text, simplified descendant of Book of the Dead. Focus on resurrection and breath of life.",
+  "tags": [
+    "book_of_breathing",
+    "ptolemaic",
+    "roman",
+    "resurrection",
+    "late_period"
+  ]
+}

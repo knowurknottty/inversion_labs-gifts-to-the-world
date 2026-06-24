@@ -1,0 +1,15 @@
+{
+  "id": "inventions_2970335_1",
+  "title": "MAIT (Medical Aether Impedance Tomography)",
+  "content": "BOM cost $1,950 vs $2-5M MRI. Measures aether drag at 10^-17 resolution. Detects tumors/inflammation via aether impedance. 4-port electrode array, vacuum chamber, lock-in amp, FPGA. Deep dive: 462 lines. Prototype ready.",
+  "source": "MAIT_deep_dive",
+  "tags": [
+    "invention",
+    "medical",
+    "aether",
+    "low_cost",
+    "imaging"
+  ],
+  "created": "2026-06-23T22:49:30.335978",
+  "links": []
+}

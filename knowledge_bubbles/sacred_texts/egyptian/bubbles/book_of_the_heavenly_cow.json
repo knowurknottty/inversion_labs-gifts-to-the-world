@@ -1,0 +1,17 @@
+{
+  "id": "book_of_the_heavenly_cow",
+  "title": "The Book of the Heavenly Cow",
+  "type": "sacred_text",
+  "origin": "ancient_egypt",
+  "period": "New Kingdom (c. 1550-1070 BCE)",
+  "source": "archive.org/details/bookofheavenlyco00hass",
+  "translator": "Erik Hornung (1982)",
+  "description": "Mythological text explaining the separation of heaven and earth, the rebellion of humanity, and the sun god's withdrawal.",
+  "tags": [
+    "heavenly_cow",
+    "mythology",
+    "separation",
+    "rebellion",
+    "cosmogony"
+  ]
+}

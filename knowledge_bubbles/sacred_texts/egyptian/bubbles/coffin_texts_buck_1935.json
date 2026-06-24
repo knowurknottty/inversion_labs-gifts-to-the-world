@@ -1,0 +1,17 @@
+{
+  "id": "coffin_texts_buck_1935",
+  "title": "The Coffin Texts",
+  "type": "sacred_text",
+  "origin": "ancient_egypt",
+  "period": "Middle Kingdom (c. 2055-1650 BCE)",
+  "source": "archive.org/details/coffintexts01buckuoft",
+  "translator": "Adriaan de Buck (1935-1961, 7 volumes)",
+  "description": "Intermediate between Pyramid Texts and Book of the Dead. Spells painted on coffins for non-royal deceased.",
+  "tags": [
+    "coffin_texts",
+    "middle_kingdom",
+    "coffin",
+    "non_royal",
+    "afterlife_spells"
+  ]
+}

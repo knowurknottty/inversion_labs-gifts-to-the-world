@@ -1,0 +1,14 @@
+{
+  "id": "biocapt_2970382_1",
+  "title": "RLM (Resonance-Lattice Module) Integration",
+  "content": "RLM detects aether resonances. HMC capacity 20,000. Rust encode 2.9\u00b5s vs Python 9.5\u00b5s (3.3x). CAPTCore init ~745ms (82 modules). Next: test with aether queries. Validate resonance detection.",
+  "source": "biocapt_integration",
+  "tags": [
+    "biocapt",
+    "rlm",
+    "aether",
+    "resonance"
+  ],
+  "created": "2026-06-23T22:49:30.382996",
+  "links": []
+}

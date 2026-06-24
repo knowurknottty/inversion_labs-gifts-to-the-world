@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "privacy_1782272901",
+      "title": "Anti-Surveillance Toolkit (7-Layer Privacy Guide)",
+      "content": "Comprehensive privacy infrastructure guide for 2026.\n\n7 layers:\n1. Hardware: Purism laptop, GrapheneOS phone, YubiKey\n2. Network: ProtonVPN, Pi-hole, Tor, firewall\n3. Communications: Signal, ProtonMail, PGP, SimpleX\n4. Data: Veracrypt, Cryptomator, BleachBit, metadata hygiene\n5. Behavior: Compartmentalization, opsec, social engineering defense\n6. Legal: Know your rights, gag order workaround, journalism shields\n7. Community: Mesh networks, offline comms, mutual aid\n\nCost: $0 (all open-source). No subscriptions, no paid services.\n\nStatus: 854-line guide written. Zero-cost implementation.",
+      "source": "anti_surveillance_toolkit.md",
+      "tags": [
+        "privacy",
+        "surveillance",
+        "opsec",
+        "open_source",
+        "guide"
+      ],
+      "created": "2026-06-23T22:48:21.707902",
+      "links": []
+    },
+    {
+      "id": "experiments_1782272901",
+      "title": "Egyptian Cotton in Argon Bubble Chambers",
+      "content": "Hypothesis: Egyptian cotton (Gossypium barbadense) in argon gas shows aether drag anomalies.\n\nRationale:\n- Egyptian cotton has highest crystalline order (40% cellulose I\u03b1)\n- Argon is monoatomic (no molecular dipole \u2014 minimal interference)\n- Aether drag may couple to crystallographic alignment\n\nExperiment:\n1. Fill chamber with argon (99.999% pure)\n2. Suspend cotton fibers under tension\n3. Measure aether drag via torsion pendulum\n4. Compare with vacuum baseline\n\nStatus: Proposed. Need access to argon chamber.",
+      "source": "egyptian_cotton_hypothesis",
+      "tags": [
+        "experiment",
+        "aether",
+        "cotton",
+        "argon",
+        "bubble_chamber"
+      ],
+      "created": "2026-06-23T22:48:21.708160",
+      "links": []
+    },
+    {
+      "id": "aether_research_1782272901",
+      "title": "Diracs Quantum Aether Prediction",
+      "content": "Paul Dirac (1951) predicted the aether density at 10^-40 g/cm\u00b3.\n\nThis is consistent with modern dark energy density (10^-29 g/cm\u00b3 \u2014 same order of magnitude).\n\nDiracs key insight: \"The aether is not a material medium \u2014 its a quantum vacuum with fluctuations.\"\n\nModern confirmation: Quantum field theory treats vacuum as seething with virtual particles (aether by another name).",
+      "source": "dirac_1951",
+      "tags": [
+        "aether",
+        "dirac",
+        "quantum_vacuum",
+        "dark_energy"
+      ],
+      "created": "2026-06-23T22:48:21.707370",
+      "links": []
+    },
+    {
+      "id": "biocapt_1782272901",
+      "title": "RLM (Resonance-Lattice Module) Integration",
+      "content": "RLM is a BioCAPT module for detecting aether resonances.\n\nIntegration status:\n- RLM module code written\n- HMC capacity: 20,000 traces\n- Rust HMC encode: 2.9 \u00b5s (vs. Python 9.5 \u00b5s \u2014 3.3x faster)\n- CAPTCore init: ~745 ms (82-module stack)\n\nNext: Test RLM with aether research queries. Validate resonance detection.",
+      "source": "biocapt_integration",
+      "tags": [
+        "biocapt",
+        "rlm",
+        "aether",
+        "resonance",
+        "hmc"
+      ],
+      "created": "2026-06-23T22:48:21.708037",
+      "links": []
+    },
+    {
+      "id": "inventions_1782272901",
+      "title": "WRQVM (Wide-Range Quantum Vacuum Modulator)",
+      "content": "WRQVM is a device to modulate the quantum vacuum (aether) for propulsion/energy.\n\nKey specs:\n- Vacuum impedance: 376.730... ohms (Z_0)\n- Target modulation: 1-100 MHz (RF range)\n- Expected thrust: 100-1000 \u00b5N (photon momentum coupling)\n\nDesign: Vacuum chamber, RF antenna array, Casimir cavity, field gradiant generator.\n\nStatus: Deep dive spec written (537 lines). Ready for vacuum chamber test.",
+      "source": "WRQVM_deep_dive.md",
+      "tags": [
+        "invention",
+        "propulsion",
+        "aether",
+        "quantum_vacuum",
+        "RF"
+      ],
+      "created": "2026-06-23T22:48:21.707840",
+      "links": []
+    }
+  ],
+  "edges": [],
+  "metadata": {
+    "total_bubbles": 5,
+    "topics": {
+      "privacy": 1,
+      "experiments": 1,
+      "aether_research": 1,
+      "biocapt": 1,
+      "inventions": 1
+    },
+    "updated": "2026-06-23"
+  }
+}

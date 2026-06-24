@@ -1,0 +1,14 @@
+{
+  "id": "inventions_2970359_3",
+  "title": "WRQVM (Wide-Range Quantum Vacuum Modulator)",
+  "content": "Modulates quantum vacuum for propulsion. Vacuum impedance 376.730\u03a9. Target 1-100MHz, 100-1000\u00b5N thrust. Vacuum chamber, RF antenna, Casimir cavity. Deep dive: 537 lines. Vacuum test ready.",
+  "source": "WRQVM_deep_dive",
+  "tags": [
+    "invention",
+    "propulsion",
+    "aether",
+    "quantum_vacuum"
+  ],
+  "created": "2026-06-23T22:49:30.360007",
+  "links": []
+}

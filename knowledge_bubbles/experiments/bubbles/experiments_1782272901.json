@@ -1,0 +1,15 @@
+{
+  "id": "experiments_1782272901",
+  "title": "Egyptian Cotton in Argon Bubble Chambers",
+  "content": "Hypothesis: Egyptian cotton (Gossypium barbadense) in argon gas shows aether drag anomalies.\n\nRationale:\n- Egyptian cotton has highest crystalline order (40% cellulose I\u03b1)\n- Argon is monoatomic (no molecular dipole \u2014 minimal interference)\n- Aether drag may couple to crystallographic alignment\n\nExperiment:\n1. Fill chamber with argon (99.999% pure)\n2. Suspend cotton fibers under tension\n3. Measure aether drag via torsion pendulum\n4. Compare with vacuum baseline\n\nStatus: Proposed. Need access to argon chamber.",
+  "source": "egyptian_cotton_hypothesis",
+  "tags": [
+    "experiment",
+    "aether",
+    "cotton",
+    "argon",
+    "bubble_chamber"
+  ],
+  "created": "2026-06-23T22:48:21.708160",
+  "links": []
+}

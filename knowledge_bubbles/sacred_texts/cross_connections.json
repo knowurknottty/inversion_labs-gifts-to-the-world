@@ -1,0 +1,511 @@
+{
+  "theme:wisdom": {
+    "ancient_egypt": [
+      "ael_index",
+      "ehh_index",
+      "instruction_of_amenemope",
+      "instruction_of_ptahhotep",
+      "leg_leg29",
+      "lfo_index",
+      "woe_index",
+      "woe_woe07"
+    ],
+    "mesopotamia": [
+      "ane_enuma",
+      "ane_index"
+    ],
+    "hindu": [
+      "hin_index",
+      "hin_maha_index"
+    ],
+    "native_american": [
+      "nam_ca_index",
+      "nam_cher_index",
+      "nam_hopi_index",
+      "nam_inca_index",
+      "nam_inu_index",
+      "nam_iro_index",
+      "nam_maya_index",
+      "nam_nav_index",
+      "nam_ne_index",
+      "nam_nw_index",
+      "nam_pla_index",
+      "nam_se_index",
+      "nam_zuni_index"
+    ]
+  },
+  "theme:battle": {
+    "ancient_egypt": [
+      "ael_index",
+      "hh_index"
+    ],
+    "mesopotamia": [
+      "ane_enuma"
+    ]
+  },
+  "theme:book": {
+    "ancient_egypt": [
+      "ael_index",
+      "amduat_hornung_1963",
+      "bat_index",
+      "boi_index",
+      "book_of_breathing",
+      "book_of_caverns_budge_1905",
+      "book_of_gates_budge_1905",
+      "book_of_the_dead_budge_1898",
+      "book_of_the_dead_renouf_1904",
+      "book_of_the_heavenly_cow",
+      "coffin_texts_buck_1935",
+      "dmp_index",
+      "ebod_index",
+      "egyptian_hymns_mercer_1926",
+      "ehh",
+      "ehh_index",
+      "eml_index",
+      "gate_index",
+      "hh_index",
+      "lfo_index",
+      "papyrus_of_ani_1980",
+      "rtae_index",
+      "tut_index",
+      "weighing_of_the_heart",
+      "woe_index",
+      "woe_woe05",
+      "woe_woe07"
+    ],
+    "mesopotamia": [
+      "ane_index"
+    ],
+    "hindu": [
+      "hin_av_index",
+      "hin_index",
+      "hin_maha_index",
+      "hin_manu",
+      "hin_sbe01_index",
+      "hin_sbe02_index",
+      "hin_sbe14_index",
+      "hin_sbe15_index",
+      "hin_sbe33_index",
+      "hin_yv_index"
+    ],
+    "native_american": [
+      "nam_ca_index",
+      "nam_cher_index",
+      "nam_eassoul",
+      "nam_hopi_index",
+      "nam_inca_index",
+      "nam_inu_index",
+      "nam_iro_index",
+      "nam_maya_index",
+      "nam_nav_index",
+      "nam_ne_index",
+      "nam_nw_index",
+      "nam_pla_index",
+      "nam_por_index",
+      "nam_se_index",
+      "nam_zuni_index"
+    ]
+  },
+  "theme:sun": {
+    "ancient_egypt": [
+      "amduat_hornung_1963",
+      "bat_index",
+      "book_of_gates_budge_1905",
+      "book_of_the_heavenly_cow",
+      "destruction_of_mankind",
+      "ehh",
+      "eml_index",
+      "gate_index",
+      "great_hymn_to_aten",
+      "hh_index",
+      "pyt_index",
+      "tut_index",
+      "woe_woe07"
+    ],
+    "hindu": [
+      "hin_sbe33_index"
+    ],
+    "native_american": [
+      "nam_eassoul",
+      "nam_inca_index",
+      "nam_pla_index",
+      "nam_por_index"
+    ]
+  },
+  "theme:war": {
+    "ancient_egypt": [
+      "book_of_caverns_budge_1905",
+      "eml_index",
+      "pyt_index",
+      "woe_woe05",
+      "woe_woe07"
+    ],
+    "mesopotamia": [
+      "ane_enuma",
+      "ane_index"
+    ],
+    "native_american": [
+      "nam_cher_index",
+      "nam_eassoul",
+      "nam_nav_index",
+      "nam_ne_index",
+      "nam_nw_index",
+      "nam_por_index",
+      "nam_zuni_index"
+    ]
+  },
+  "theme:heaven": {
+    "ancient_egypt": [
+      "book_of_the_heavenly_cow",
+      "efl_index",
+      "ehh",
+      "ehh_index",
+      "gate_index",
+      "leg_leg29",
+      "pyt_index",
+      "woe_woe07"
+    ],
+    "mesopotamia": [
+      "ane_enuma"
+    ],
+    "zoroastrian": [
+      "jor_arada"
+    ],
+    "native_american": [
+      "nam_eassoul"
+    ]
+  },
+  "theme:earth": {
+    "ancient_egypt": [
+      "book_of_the_heavenly_cow",
+      "pyt_index",
+      "woe_woe05",
+      "woe_woe07"
+    ],
+    "mesopotamia": [
+      "ane_enuma",
+      "ane_index"
+    ],
+    "hindu": [
+      "hin_index",
+      "hin_maha_index",
+      "hin_sbe33_index"
+    ],
+    "native_american": [
+      "nam_ca_index",
+      "nam_cher_index",
+      "nam_eassoul",
+      "nam_hopi_index",
+      "nam_inca_index",
+      "nam_inu_index",
+      "nam_iro_index",
+      "nam_maya_index",
+      "nam_nav_index",
+      "nam_ne_index",
+      "nam_nw_index",
+      "nam_pla_index",
+      "nam_por_index",
+      "nam_se_index",
+      "nam_zuni_index"
+    ]
+  },
+  "theme:scroll": {
+    "ancient_egypt": [
+      "dmp_index",
+      "eml_index",
+      "hh_index",
+      "rtae_index",
+      "woe_woe05"
+    ],
+    "hindu": [
+      "hin_av_index",
+      "hin_sbe01_index",
+      "hin_sbe15_index",
+      "hin_sbe33_index"
+    ],
+    "native_american": [
+      "nam_por_index"
+    ]
+  },
+  "theme:judgment": {
+    "ancient_egypt": [
+      "efl_index",
+      "eml_index",
+      "gate_index"
+    ],
+    "hindu": [
+      "hin_sbe33_index"
+    ]
+  },
+  "theme:hell": {
+    "ancient_egypt": [
+      "efl_index",
+      "ehh",
+      "ehh_index",
+      "gate_index",
+      "pyt_index"
+    ],
+    "zoroastrian": [
+      "jor_arada"
+    ]
+  },
+  "theme:cosmology": {
+    "ancient_egypt": [
+      "egyptian_hymns_mercer_1926"
+    ],
+    "native_american": [
+      "nam_iro_index"
+    ]
+  },
+  "theme:death": {
+    "ancient_egypt": [
+      "ehh",
+      "eml_index",
+      "hh_index",
+      "leg_index",
+      "pyt_index",
+      "rtae_index",
+      "sinuhe"
+    ],
+    "native_american": [
+      "nam_inca_index",
+      "nam_pla_index",
+      "nam_por_index"
+    ]
+  },
+  "theme:creation": {
+    "ancient_egypt": [
+      "eml_index",
+      "leg_index",
+      "woe_woe07"
+    ],
+    "mesopotamia": [
+      "ane_enuma",
+      "ane_index"
+    ],
+    "zoroastrian": [
+      "jor_bundahis"
+    ]
+  },
+  "theme:universe": {
+    "ancient_egypt": [
+      "hh_index"
+    ],
+    "hindu": [
+      "hin_index"
+    ]
+  },
+  "theme:fire": {
+    "ancient_egypt": [
+      "hh_index",
+      "woe_woe07"
+    ],
+    "mesopotamia": [
+      "ane_enuma"
+    ],
+    "hindu": [
+      "hin_sbe33_index"
+    ],
+    "native_american": [
+      "nam_eassoul",
+      "nam_por_index"
+    ]
+  },
+  "theme:moon": {
+    "ancient_egypt": [
+      "hh_index",
+      "woe_woe07"
+    ],
+    "native_american": [
+      "nam_cher_index",
+      "nam_por_index"
+    ]
+  },
+  "theme:love": {
+    "ancient_egypt": [
+      "hh_index",
+      "woe_woe05",
+      "woe_woe07"
+    ],
+    "hindu": [
+      "hin_av_index"
+    ],
+    "native_american": [
+      "nam_eassoul",
+      "nam_por_index"
+    ]
+  },
+  "theme:shrine": {
+    "ancient_egypt": [
+      "hh_index"
+    ],
+    "native_american": [
+      "nam_eassoul"
+    ]
+  },
+  "theme:truth": {
+    "ancient_egypt": [
+      "leg_leg29",
+      "weighing_of_the_heart",
+      "woe_woe05",
+      "woe_woe07"
+    ],
+    "hindu": [
+      "hin_sbe33_index"
+    ],
+    "native_american": [
+      "nam_hopi_index"
+    ]
+  },
+  "theme:ritual": {
+    "ancient_egypt": [
+      "lfo_index",
+      "pyt_index",
+      "woe_woe07"
+    ],
+    "hindu": [
+      "hin_index"
+    ],
+    "native_american": [
+      "nam_cher_index",
+      "nam_eassoul",
+      "nam_hopi_index",
+      "nam_ne_index",
+      "nam_nw_index",
+      "nam_pla_index",
+      "nam_por_index",
+      "nam_se_index",
+      "nam_zuni_index"
+    ]
+  },
+  "theme:prayer": {
+    "ancient_egypt": [
+      "pyt_index",
+      "woe_woe05"
+    ],
+    "hindu": [
+      "hin_av_index"
+    ],
+    "native_american": [
+      "nam_eassoul",
+      "nam_inca_index",
+      "nam_nav_index",
+      "nam_por_index"
+    ]
+  },
+  "theme:temple": {
+    "ancient_egypt": [
+      "pyt_index",
+      "woe_woe07"
+    ],
+    "native_american": [
+      "nam_eassoul"
+    ]
+  },
+  "theme:sky": {
+    "ancient_egypt": [
+      "rtae_index"
+    ],
+    "native_american": [
+      "nam_eassoul"
+    ]
+  },
+  "theme:quest": {
+    "ancient_egypt": [
+      "woe_woe05",
+      "woe_woe07"
+    ],
+    "mesopotamia": [
+      "ane_atra",
+      "ane_dumuzi",
+      "ane_eg_index",
+      "ane_gilgamesh_genesis",
+      "ane_inanna",
+      "ane_index"
+    ],
+    "hindu": [
+      "hin_gita",
+      "hin_index",
+      "hin_maha_index",
+      "hin_ram_index",
+      "hin_rigveda",
+      "hin_rv_index",
+      "hin_sbe15_index",
+      "hin_sbe21_index",
+      "hin_sv_index"
+    ],
+    "zoroastrian": [
+      "jor_arada",
+      "jor_bundahis",
+      "jor_denkard",
+      "jor_index",
+      "jor_sad-dar",
+      "jor_sbe04_index",
+      "jor_sbe31_index",
+      "jor_sbe32_index",
+      "jor_sbe47_index",
+      "jor_visparad",
+      "jor_yesht"
+    ],
+    "native_american": [
+      "nam_ca_index",
+      "nam_cher_index",
+      "nam_hopi_index",
+      "nam_inca_index",
+      "nam_inu_index",
+      "nam_iro_index",
+      "nam_maya_index",
+      "nam_nav_index",
+      "nam_ne_index",
+      "nam_niwhys",
+      "nam_nsa_index",
+      "nam_nw_index",
+      "nam_pla_index",
+      "nam_se_index",
+      "nam_zuni_index"
+    ]
+  },
+  "theme:water": {
+    "ancient_egypt": [
+      "woe_woe07"
+    ],
+    "mesopotamia": [
+      "ane_enuma"
+    ],
+    "hindu": [
+      "hin_sbe33_index"
+    ],
+    "native_american": [
+      "nam_hopi_index"
+    ]
+  },
+  "theme:peace": {
+    "ancient_egypt": [
+      "woe_woe07"
+    ],
+    "mesopotamia": [
+      "ane_enuma"
+    ]
+  },
+  "theme:hero": {
+    "mesopotamia": [
+      "ane_enuma"
+    ],
+    "native_american": [
+      "nam_ca_index",
+      "nam_cher_index",
+      "nam_hopi_index",
+      "nam_inca_index",
+      "nam_inu_index",
+      "nam_iro_index",
+      "nam_maya_index",
+      "nam_nav_index",
+      "nam_ne_index",
+      "nam_nw_index",
+      "nam_pla_index",
+      "nam_por_index",
+      "nam_se_index",
+      "nam_zuni_index"
+    ]
+  }
+}

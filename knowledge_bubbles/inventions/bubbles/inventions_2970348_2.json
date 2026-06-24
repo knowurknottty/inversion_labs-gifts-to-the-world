@@ -1,0 +1,14 @@
+{
+  "id": "inventions_2970348_2",
+  "title": "FLADD (Fractal Light And Dark Detector)",
+  "content": "Measures aether drag on light. Sagnac interferometer + fractal delay lines. Expected 10^-17 phase shift. 4km fiber loop, He-Ne laser, photodetector. Deep dive: 454 lines. Bench test ready.",
+  "source": "FLADD_deep_dive",
+  "tags": [
+    "invention",
+    "physics",
+    "aether",
+    "interferometer"
+  ],
+  "created": "2026-06-23T22:49:30.348625",
+  "links": []
+}

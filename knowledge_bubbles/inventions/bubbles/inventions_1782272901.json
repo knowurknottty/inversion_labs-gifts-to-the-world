@@ -1,0 +1,15 @@
+{
+  "id": "inventions_1782272901",
+  "title": "WRQVM (Wide-Range Quantum Vacuum Modulator)",
+  "content": "WRQVM is a device to modulate the quantum vacuum (aether) for propulsion/energy.\n\nKey specs:\n- Vacuum impedance: 376.730... ohms (Z_0)\n- Target modulation: 1-100 MHz (RF range)\n- Expected thrust: 100-1000 \u00b5N (photon momentum coupling)\n\nDesign: Vacuum chamber, RF antenna array, Casimir cavity, field gradiant generator.\n\nStatus: Deep dive spec written (537 lines). Ready for vacuum chamber test.",
+  "source": "WRQVM_deep_dive.md",
+  "tags": [
+    "invention",
+    "propulsion",
+    "aether",
+    "quantum_vacuum",
+    "RF"
+  ],
+  "created": "2026-06-23T22:48:21.707840",
+  "links": []
+}

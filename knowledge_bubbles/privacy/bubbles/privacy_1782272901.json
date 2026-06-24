@@ -1,0 +1,15 @@
+{
+  "id": "privacy_1782272901",
+  "title": "Anti-Surveillance Toolkit (7-Layer Privacy Guide)",
+  "content": "Comprehensive privacy infrastructure guide for 2026.\n\n7 layers:\n1. Hardware: Purism laptop, GrapheneOS phone, YubiKey\n2. Network: ProtonVPN, Pi-hole, Tor, firewall\n3. Communications: Signal, ProtonMail, PGP, SimpleX\n4. Data: Veracrypt, Cryptomator, BleachBit, metadata hygiene\n5. Behavior: Compartmentalization, opsec, social engineering defense\n6. Legal: Know your rights, gag order workaround, journalism shields\n7. Community: Mesh networks, offline comms, mutual aid\n\nCost: $0 (all open-source). No subscriptions, no paid services.\n\nStatus: 854-line guide written. Zero-cost implementation.",
+  "source": "anti_surveillance_toolkit.md",
+  "tags": [
+    "privacy",
+    "surveillance",
+    "opsec",
+    "open_source",
+    "guide"
+  ],
+  "created": "2026-06-23T22:48:21.707902",
+  "links": []
+}
